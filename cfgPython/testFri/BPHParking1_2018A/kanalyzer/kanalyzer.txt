@@ -1,0 +1,4 @@
+Counter kanalyzer :
+	 all events                                    1000 	 1.00 	 1.0000
+	 >= 1 electron                                  421 	 0.42 	 0.4210
+
